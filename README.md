@@ -32,10 +32,11 @@ This project combines classical flow-based features with a compact deep-learning
 
 ---
 
-## Adding datasets
+## Setup
 - Download all four datasets [here](https://unsw-my.sharepoint.com/personal/z5131399_ad_unsw_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fz5131399%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FBot%2DIoT%5FDataset%2FDataset%2F5%25%2FAll%20features&viewid=604d81f1%2D64a9%2D4a09%2D8464%2D3c45ff9ba8fe&ga=1).
 - Create a folder called "data" inside project directory.
 - Put the four csv files inside the data folder.
+-Create a folder called "explanations" inside project directory (XAI results will go here)
 
 ## Running SHAP
 ```bash
